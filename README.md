@@ -1,2 +1,6 @@
 # no2-project
-lesson 2 on project 2
+lesson 1 on python
+# This is a comment representation
+myname = david
+print ("myname")
+
